@@ -1,6 +1,6 @@
 {
   "name": "generator-camilo",
-  "version": "1.0.0",
+  "version": "1.0.3",
   "description": "Generator",
   "main": "index.js",
   "files": [
@@ -9,9 +9,6 @@
   "keywords": [
     "yeoman-generator"
   ],
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Camilo Mora",
   "license": "ISC",
   "dependencies": {
